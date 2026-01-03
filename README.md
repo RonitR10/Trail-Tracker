@@ -2,6 +2,7 @@
 
 Trail Tracker is a web application that helps users track the cities and countries they visit.  
 It provides a clean and simple interface to add, view, and manage travel locations.
+Leave a trail for someone to explore.
 
 ---
 
